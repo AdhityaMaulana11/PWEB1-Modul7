@@ -1,0 +1,14 @@
+.nav-link {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 24px;
+  text-transform: uppercase;
+  margin-right: 30px;
+}
+.nav-link:hover {
+  color: rgb(182, 215, 243);
+}
+.jumbotron {
+  background-image: url(../img/gedungFkom.jpeg);
+  background-size: cover;
+  height: 500px;
+}
